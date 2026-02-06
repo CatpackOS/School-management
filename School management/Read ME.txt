@@ -40,4 +40,5 @@ Make sure the following files are in the same folder:
 Open a terminal or command prompt inside the project folder and run:
 
 ```bash
-python main.py
+school management.py
+
