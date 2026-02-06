@@ -1,1 +1,43 @@
-# School-management
+# School Management System
+
+## Description
+This is a simple School Management System developed in Python using Tkinter.
+It was created for educational purposes as a school project.
+
+The program allows the user to manage students by storing their data in a CSV file.
+It supports adding, removing, searching, updating, and displaying students in a graphical interface.
+
+## Features
+- Add a student (Academic ID, First Name, Last Name)
+- Remove a student by Academic ID
+- Search students by name
+- Search students by Academic ID
+- Update student information
+- Display all students in a table
+- Automatic student counter
+
+## Requirements
+To run this program, you need:
+
+- Python 3.x  
+- Tkinter (included by default with Python)
+- A computer with Windows, Linux, or macOS
+
+## Required Files
+Make sure the following files are in the same folder:
+
+- `main.py` (the program)
+- `School picture.png` (window icon)
+- `Student's.csv` (created automatically if it does not exist)
+
+## How to Download
+1. Click the **Code** button on this GitHub page
+2. Select **Download ZIP**
+3. Extract the ZIP file
+4. Open the project folder
+
+## How to Run
+Open a terminal or command prompt inside the project folder and run:
+
+```bash
+python main.py
